@@ -11,3 +11,5 @@ A simple ping pong python game using turtle.
 1. Player A can move the paddle with keys "W" for up movement and "S" for down movement.
 2. Player B can move the paddle with arrow keys "Up" for up movement and "Down" for down movement.
 3. First player to get 5 score wins the game.
+
+![Screenshot](SS.JPG)
